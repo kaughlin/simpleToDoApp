@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simpleToDo</string>
+    <!--Strings are typically not hard-coded
+    in your code but instead stored in res/values/strings.xml
+    using a key name which serves as an alias to the actual value.
+    -->
+</resources>
